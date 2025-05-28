@@ -5,6 +5,7 @@ This will help you sort your history from trading212 by ticker
 
 ### Prerequisites
 - Install [Python 3](https://www.python.org/downloads/)
+- Install [virtualenv](https://virtualenv.pypa.io/en/latest/)
 
 ### Steps to Run
 1. **Download the repository**
