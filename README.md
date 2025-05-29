@@ -42,7 +42,7 @@ PT_IRS_helper-main/
 
 7. **Run the application**:
    ```sh
-   python app/trading212_helper.py
+   python trading212_helper.py
    ```
 
 8. **Deactivate virtual environment (after the process finished)**:
